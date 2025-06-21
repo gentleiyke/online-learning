@@ -1,2 +1,8 @@
 - creating the web pages for the website
 - creating the learning managment system
+  - create directory for the project (laravel)
+    - app
+    - bootstrap (Initial Framework Bootstrapping)
+    - config (Configuration files to manage environment-based settings)
+    - database (Database schema and test data setup)
+    - public (Frontend View)
