@@ -1,0 +1,2 @@
+- creating the web pages for the website
+- creating the learning managment system
