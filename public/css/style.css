@@ -1,0 +1,44 @@
+    body {
+      font-family: 'Segoe UI', sans-serif;
+    }
+
+    .main-header {
+      background-color: #2a52ff;
+      color: white;
+      padding: 60px 0;
+      text-align: center;
+    }
+
+    .main-header h1 {
+      font-weight: 700;
+      font-size: 2.8rem;
+    }
+
+    .nav-link {
+      color: #2a52ff !important;
+    }
+
+    .section-cards {
+      padding: 40px 0;
+    }
+
+    .card {
+      background-color: #2a52ff;
+      color: white;
+    }
+
+    .footer {
+      background-color: white;
+      padding: 30px 0;
+      text-align: center;
+    }
+
+    .social-icons a {
+      color: #2a52ff;
+      font-size: 24px;
+      margin: 0 10px;
+    }
+
+    .subscribe-form input {
+      max-width: 300px;
+    }
